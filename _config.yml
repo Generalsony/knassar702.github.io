@@ -14,11 +14,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "/OmarBadraan"
+title                    : "Knassar702"
 title_separator          : "-"
-name                     : "Omar Badraan"
-description              : "Interested in RCE and security research"
-url                      : omarmohamedsc.github.io
+name                     : "Khaled Nassar"
+description              : "Bug Hunter , Python programmer , Web developer"
+url                      : knassar702.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,25 +104,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Omar Badraan"
+  name             : "Khaled Nassar"
   avatar           : /assets/images/finn.jpg
-  bio              : "Interested in RCE and security research"
-  location         : "Beni suef, Egypt"
-  email            : galaxybadraan@gmail.com
+  bio              : "Bug Hunter , Python programmer , Web developer"
+  location         : "Egypt"
+  email            : knassar702@gmail.com
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://omarmohamedsc.github.com"
+      url: "https://knassar7o2.blogspot.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/OmarMohamedBadran"
+      url: "https://www.facebook.com/profile.php?id=100015121337012"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/OmarMohamedSc"
+      url: "https://github.com/knassar702"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/omarbadraan"
+      url: "https://www.instagram.com/kn715308"
 
 # Site Footer
 footer:
@@ -135,7 +135,7 @@ footer:
       #url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/OmarMohamedSc"
+      url: "https://github.com/knassar702"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url: ""
