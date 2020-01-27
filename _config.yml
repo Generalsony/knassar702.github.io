@@ -14,7 +14,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Knassar702"
+title                    : "/"
 title_separator          : "-"
 name                     : "Khaled Nassar"
 description              : "Bug Hunter , Python programmer , Web developer"
